@@ -1,4 +1,5 @@
-
+*{background-color: fuchsia;
+}
 .navbar-nav {
     display: flex;
     gap:100px;
