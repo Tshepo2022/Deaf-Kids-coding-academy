@@ -116,4 +116,24 @@ img{
 } */
 
 /* ** Service ** */
-.service-item
+/* .service-item {
+    background: var(--light);
+    transition: .5s;
+    width: 100%;
+    background-color: grey;
+} */
+
+/* .service-item:hover {
+    margin-top: -20px;
+    background: var(--primary);
+}
+
+.service-item * {
+    transition: .5s;
+}
+
+.service-item:hover * {
+    color: var(--light) !important;
+} */
+
+** Footer **
