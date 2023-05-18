@@ -90,4 +90,9 @@ Form{
     padding-right: 0;
     border-right: none;
 }
-
+#logo
+{
+    margin-top: -10px;
+    width: 200px;
+    height: 200px;
+}

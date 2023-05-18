@@ -24,3 +24,9 @@ h3{
     font-size: 30px;
     margin-left: 16rem;
 }
+#logo
+{
+    margin-top: -10px;
+    width: 200px;
+    height: 200px;
+}
