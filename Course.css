@@ -12,11 +12,7 @@ list-style: none;
 display: block;
 }
 
-h3{
-    font-size: 50px;
-    margin-left: 30%;
-    margin-top: -25%;
-} 
+
 
 .grid-container {
     display: grid;
@@ -122,3 +118,10 @@ h3{
     width: 200px;
     height: 200px;
 }
+
+img{
+  width: 200%;
+  height: 200%;
+  margin: 15%;
+}
+
