@@ -16,5 +16,6 @@
     // };
 
     
-    let name =  document.getElementById('studentName').value;
+    // let name =  document.getElementById('studentName').value;
+    let school = document.getElementById('school').value;
 
