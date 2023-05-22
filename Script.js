@@ -2,7 +2,7 @@
 // {
 //     const personal = [];
 
-    let obj = {
+    // let obj = {
         // name: '',
         // school: '',
         // email: '',
@@ -13,5 +13,8 @@
         // provinces:'',
         // zip:''
 
-    };
+    // };
+
+    
+    let name =  document.getElementById('studentName').value;
 
