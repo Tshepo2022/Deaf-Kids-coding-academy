@@ -3,14 +3,13 @@
     display: flex;
     gap: 150px;
     justify-content: center;
-    /* margin-top: 20px; */
+    
 }
 
 li {
     list-style: none;
     display: block;
 }
-
 
 
 
@@ -205,7 +204,7 @@ li {
 
 #logo
 {
-    margin-top: -50px;
+    margin-top: -10px;
     width: 200px;
     height: 200px;
 }
