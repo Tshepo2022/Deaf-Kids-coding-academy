@@ -1,4 +1,6 @@
-
+body  {
+    background-image: url("background\ kids.jpg");
+  }
 .navbar-nav {
     display: flex;
     gap:100px;
@@ -19,9 +21,9 @@ h3{
 }  
 
 Form{
-    width: 40%;
-    margin-left: 30%;
-    margin-top: 5%;
+    width: 25%;
+    margin-left: 40%;
+    margin-top: 2%;
 }
 
 
