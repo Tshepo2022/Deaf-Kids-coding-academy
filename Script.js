@@ -1,6 +1,6 @@
-function submit_by_tag()
-{
-    const personal = [];
+// function submit_by_tag()
+// {
+//     const personal = [];
 
     let obj = {
         // name: '',
