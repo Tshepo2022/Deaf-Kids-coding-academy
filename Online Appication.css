@@ -101,3 +101,13 @@ Form{
     width: 200px;
     height: 200px;
 }
+
+button{
+background-color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bolder;
+}
+
+/* button:hover{
+    transition: 5s;
+} */
