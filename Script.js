@@ -24,7 +24,7 @@ function submit_by_tag()
     let name =  document.getElementById('studentName').value;
     let school = document.getElementById('school').value;
     let email = document.getElementById('email').value;
-    // let password = document.getElementById('Password').value;
+    let password = document.getElementById('Password').value;
     // let phone = document.getElementById('Phone').value;
     // let address = document.getElementById('Address').value;
     // let city = document.getElementById('City').value;
