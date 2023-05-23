@@ -26,7 +26,7 @@ function submit_by_tag()
     let email = document.getElementById('email').value;
     let password = document.getElementById('Password').value;
     let phone = document.getElementById('Phone').value;
-    // let address = document.getElementById('Address').value;
+    let address = document.getElementById('Address').value;
     // let city = document.getElementById('City').value;
     // let provinces = document.getElementById('inputState').value;
     // let zip = document.getElementById('zip').value;
