@@ -1,35 +1,37 @@
-body  {
+body {
     background-image: url("background\ kids.jpg");
-  }
+}
+
 .navbar-nav {
     display: flex;
-    gap:100px;
-   margin-left: 20%;
-   margin-top: -8px;
+    gap: 100px;
+    margin-left: 20%;
+    margin-top: -8px;
 
 }
 
-li{
-list-style: none;
-display: block;
+li {
+    list-style: none;
+    display: block;
 }
 
-h3{
+h3 {
     font-size: 50px;
     margin-left: 30%;
     margin-top: -25%;
-}  
+}
 
-Form{
+Form {
     width: 25%;
     margin-left: 35%;
     margin-top: 2%;
 }
 
-.img-fluid{
+.img-fluid {
     width: 80px;
     height: 60px;
-    }
+}
+
 /*** Footer ***/
 .footer .btn.btn-social {
     margin-right: 5px;
@@ -95,19 +97,22 @@ Form{
     padding-right: 0;
     border-right: none;
 }
-#logo
-{
+
+#logo {
     margin-top: -10px;
     width: 200px;
     height: 200px;
 }
 
-button{
-background-color: blue;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-weight: bolder;
+button {
+    background-color: #ADD8E6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: 3s;
 }
 
-/* button:hover{
-    transition: 5s;
-} */
+.btn:hover {
+    background-color: #3e8e41;
+    color: white;
+}
