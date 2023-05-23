@@ -29,7 +29,7 @@ function submit_by_tag()
     let address = document.getElementById('Address').value;
     let city = document.getElementById('City').value;
     let provinces = document.getElementById('inputState').value;
-    // let zip = document.getElementById('zip').value;
+    let zip = document.getElementById('zip').value;
 
     personal.push({firstname : name, school :school, email : email,password : password, phone : phone,address :address,city : city,provinces: provinces,zip: zip})
 
