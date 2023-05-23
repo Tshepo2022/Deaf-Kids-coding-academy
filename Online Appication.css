@@ -105,14 +105,14 @@ Form {
 }
 
 button {
-    background-color: #ADD8E6;
+    background-color:blue;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
+    font-size: large;
     cursor: pointer;
-    transition: 3s;
+    border-radius: 10px;
 }
 
-.btn:hover {
-    background-color: #3e8e41;
-    color: white;
+button:hover{
+    border-radius: 3px;
 }
