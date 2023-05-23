@@ -42,7 +42,7 @@ function submit_by_tag()
     let getPersonal = JSON.parse(localStorage.getItem('personal'));
     
     alert(getPersonal)
-    // console.log(email)
+    console.log(email)
     // // document.getElementById('studentName').value;
 
     
