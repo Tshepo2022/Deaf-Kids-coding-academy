@@ -94,3 +94,9 @@ h3{
     padding-right: 0;
     border-right: none;
   }
+
+  .row{
+    grid-row: auto auto;
+    display: flex;
+    justify-content: center;
+  }
