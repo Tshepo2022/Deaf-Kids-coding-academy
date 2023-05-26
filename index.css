@@ -1,10 +1,9 @@
-
 .navbar-nav {
     display: flex;
     gap: 120px;
     justify-content: center;
     margin-left: 19%;
-    
+
 }
 
 li {
@@ -20,7 +19,7 @@ li {
         position: relative;
         /* min-height: 500px; */
     }
-    
+
     .header-carousel .owl-carousel-item img {
         position: absolute;
         width: 100%;
@@ -70,7 +69,7 @@ li {
     background: rgba(15, 23, 43, .7);
 }
 
-.breadcrumb-item + .breadcrumb-item::before {
+.breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
 
@@ -162,14 +161,25 @@ li {
     border-right: none;
 }
 
-#logo
-{
+#logo {
     margin-top: -10px;
     width: 200px;
     height: 200px;
 }
 
-.img-fluid{
-width: 80px;
-height: 50px;
+.img-fluid {
+    width: 80px;
+    height: 50px;
+  
+
+}
+
+#zoom
+{
+    transition: transform .30s;
+}
+#zoom:hover
+{
+    transform: scale(2.5); 
+    cursor: pointer;
 }
