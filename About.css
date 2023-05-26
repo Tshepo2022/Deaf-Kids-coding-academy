@@ -39,11 +39,23 @@ img{
     width:50px ;
     height: 600px;
 }
-.img-fluid{
-    width: 80px;
-    height: 50px;
-    }
 
+.img-fluid {
+  width: 80px;
+  height: 50px;
+
+
+}
+
+#zoom
+{
+  transition: transform .30s;
+}
+#zoom:hover
+{
+  transform: scale(2.5); 
+  cursor: pointer;
+}
 /*** Footer ***/
 .footer .btn.btn-social {
     margin-right: 5px;
