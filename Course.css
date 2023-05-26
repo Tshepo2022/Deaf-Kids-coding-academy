@@ -138,6 +138,7 @@ img{
 }
 #zoom:hover
 {
-  transform: scale(2.5); 
+  transform: scale(1.5); 
   cursor: pointer;
+  /* z-index: 1; */
 }
