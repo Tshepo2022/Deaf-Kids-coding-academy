@@ -33,7 +33,7 @@ function submit_by_tag()
 
     personal.push({firstname : name, school :school, email : email,password : password, phone : phone,address :address,city : city,provinces: provinces,zip: zip})
 
-    alert(personal[1].firstname)
+    // alert(personal[1].firstname)
 
     
     localStorage.setItem('personal',JSON.stringify(personal[1]));
@@ -41,9 +41,8 @@ function submit_by_tag()
     // // // Can use it for login 
     let getPersonal = JSON.parse(localStorage.getItem('personal'));
     
-    alert(getPersonal)
-    console.log(email)
-    // // document.getElementById('studentName').value;
+    alert("Your form was successfully submitted thank you for contact us")
+
 
     
 
