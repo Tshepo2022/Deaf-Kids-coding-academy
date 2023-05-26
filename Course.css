@@ -127,11 +127,9 @@ img{
 }
 
 
-.img-fluid {
-  width: 80px;
-  height: 50px;
-
-
+.img-fluids {
+  width: 500px;
+  height: 230px;
 }
 
 #zoom
