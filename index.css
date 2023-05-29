@@ -177,6 +177,8 @@ li {
 #zoom
 {
     transition: transform .30s;
+  
+
 }
 #zoom:hover
 {
