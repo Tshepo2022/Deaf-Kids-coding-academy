@@ -41,7 +41,7 @@ function submit_by_tag()
     // // // Can use it for login 
     let getPersonal = JSON.parse(localStorage.getItem('personal'));
     
-    alert("Your form was successfully submitted thank you for contact us")
+   
 
     window.location.href = "index.html";
     
